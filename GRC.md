@@ -1,6 +1,8 @@
 [[HOME]](README.md)
 # Governance, Compliance, Risk
 
+![image](https://github.com/schroray/Security-Consulting/assets/4217443/2195319c-5ed9-4a78-aad3-f25db39cb49c)
+
 https://learngrc.substack.com/
 
 ## Ressources
