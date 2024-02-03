@@ -34,3 +34,19 @@ https://www.youtube.com/watch?v=Xyfd7zetqRw&list=PL54zsqeZFN_SLvBpsAPg0mieo0p37g
 
 ### Govern
 - Take Responsibility
+
+## NIST RMF
+
+https://csrc.nist.gov/projects/risk-management/about-rmf
+
+The NIST Risk Management Framework (RMF) and the NIST Special Publications (SP) 800-53, 800-53A, and 800-53B are interconnected, providing a comprehensive approach to managing security and privacy risks in federal information systems.
+
+Essential activities to prepare the organization to manage security and privacy risks 
+Categorize the system and information processed, stored, and transmitted based on an impact analysis
+Select the set of NIST SP 800-53 controls to protect the system based on risk assessment(s)
+Implement the controls and document how controls are deployed
+Assess to determine if the controls are in place, operating as intended, and producing the desired results
+Senior official makes a risk-based decision to authorize the system (to operate)
+Continuously monitor control implementation and risks to the system
+
+![image](https://github.com/schroray/Security-Consulting/assets/4217443/db20bfe3-d12d-4365-a20d-248a9ae7bc8e)
