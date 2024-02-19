@@ -53,3 +53,7 @@ ISO 27007 provides guidance on managing an information security management syste
 ## ISO 27008: Guidance for Auditors on ISMS Controls
 This standard gives guidelines for the auditors on how to audit the information security controls of an organization. It provides a basis for evaluating the implementation and effectiveness of the controls identified in ISO 27002.
 
+## ISO 27701: Extension to ISO/IEC 27001 and ISO/IEC 27002 for privacy information management
+The document provides guidelines for implementing a Privacy Information Management System (PIMS) as an extension to ISO/IEC 27001 and ISO/IEC 27002 standards. It's applicable to organizations of all sizes and types, outlining responsibilities for handling Personally Identifiable Information (PII) within their Information Security Management System (ISMS).
+
+
