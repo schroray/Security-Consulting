@@ -57,3 +57,48 @@ This standard gives guidelines for the auditors on how to audit the information 
 The document provides guidelines for implementing a Privacy Information Management System (PIMS) as an extension to ISO/IEC 27001 and ISO/IEC 27002 standards. It's applicable to organizations of all sizes and types, outlining responsibilities for handling Personally Identifiable Information (PII) within their Information Security Management System (ISMS).
 
 
+# ISO 27001
+ISO 27001 specifies two categories of documentation for an ISMS:
+
+1. Documents directly required by ISO 27001.
+2. Documents the organization finds necessary for ISMS effectiveness.
+
+## Mandatory Documents from chapters 4-10
+
+| ID | Deliverable | Reference | Documented Information | 
+| --- | --- | --- | --- | 
+| 1 | 📕 Scope of the ISMS (4.3): Defines the boundaries and applicability of your ISMS. | 4.3 ¶1, 4.3 a), 4.3 b), 4.3 c), 4.3 ¶2 | :exclamation: Mandatory| 
+| 2 | 📕 Information Security Policy (5.2): Outlines the organization's approach to information security. | 5.2 a), 5.2 b), 5.2 c), 5.2 d), 5.2 e), 5.2 f), 5.2 g) | :exclamation: Mandatory | 
+| 3 | 📕 Information Security Risk Assessment Process (6.1.2): Describes how risks are identified and evaluated (Risk Assessment Criteria/Risk Acceptance Criteria).| 6.1.2 ¶1 | :exclamation: Mandatory | 
+| 4 | 📕 Information Security Risk Treatment Process (6.1.3): Explains how identified risks are managed or mitigated. | 6.1.3 ¶1 | :exclamation: Mandatory | 
+| 5 | 📕 Statement of Applicability (6.1.3 / 8.3 - SoA): Lists which controls are applicable and justified. | 6.1.3, 8.3 ¶2 | :exclamation: Mandatory | 
+| 6 | 📕 Information security objectives (6.2): Sets measurable goals for improving information security. | 6.2 ¶2 | :exclamation: Mandatory | 
+| 7 | 📕 Evidence of Competence (7.2): Proves that personnel have the skills to perform their roles. | 7.2 d) | :exclamation: Mandatory | 
+| 8 | 📕 Documented Information determined by the Organization as being necessary for the effectiveness of the ISMS (7.5.1 - set) | 7.5.1 | :exclamation: Mandatory | 
+| 9 | 📕 Operational Planning and Control. Carrying out of processes as planned (8.1): Shows that processes align with KPIs and objectives. | 8.1 | :exclamation: Mandatory | 
+| 10 | 📕 Results of the Information Security Risk Assessments (8.2): Reports the outcomes of risk assessments (Risk Register) | 8.2 ¶2 | :exclamation: Mandatory | 
+| 11 | 📕 Results of the Information Security Risk Rreatment (8.3): Provides details on how risks have been managed (Results of the Risk Treatment Process). | 8.3 ¶2 | :exclamation: Mandatory | 
+| 12 | 📕 Results of Monitoring, Measurement and Evaluation (9.1): Tracks performance through KPIs. | 9.1 ¶1 | :exclamation: Mandatory | 
+| 13 | 📕 Internal Audit Programme and Results (9.2): Documents audit plans and findings (Reports). | 9.2.2 ¶3 | :exclamation: Mandatory | 
+| 14 | 📕 Results of Management Reviews (9.3 - Management Review Results): Summarizes top-level evaluations of the ISMS. | 9.3.3 ¶2 | :exclamation: Mandatory | 
+| 15 | 📕 Nature of the nonconformities and any subsequent actions taken (10.2 f - Nonconformities): Lists non-compliance issues and corrective actions. | 10.2 ¶1, 10.2 f), 10.2 g) | :exclamation: Mandatory | 
+| 16 | 📕 Results of any corrective action (10.2 g): Reports the effectiveness of corrective measures taken. | 10.2 g) | :exclamation: Mandatory | 
+| 17 | External Issues | 4.1 ¶1 |  Optional | 
+| 18 | Internal issues | 4.1 ¶1 | Optional| 
+| 19 | Requirements of Interested Parties | 4.2 a), 4.2 b), 4.2 c) | Optional | 
+| 20 | Information Security Governance Interface Process | 4.1 ¶1 | Optional | 
+| 21 | Security policy Management Process | 4.1 ¶1 | Optional | 
+| 22 | Requirements Management Process | 4.1 ¶1 | Optional| 
+| 23 | Security Implementation Management Process | 4.1 ¶1 | Optional | 
+| 24 | Supplier Management Process | 4.1 ¶1 | Optional | 
+| 25 | Process to assure necessary Awareness and Competence | 4.1 ¶1 | Optional | 
+| 26 | Information Security Incident Management Process | 4.1 ¶1 | Optional | 
+| 27 | Information Security Change Management Process | 4.1 ¶1 | Optional | 
+| 28 | Internal Audit Process | 4.1 ¶1 | Optional | 
+| 29 | Performance Evaluation Process | 4.1 ¶1 | Optional | 
+| 30 | Information Security Improvement Process | 4.1 ¶1 | Optional | 
+| 31 | Records Control Process | 4.1 ¶1 | Optional | 
+| 32 | Resource Management Process | 4.1 ¶1 | Optional | 
+| 33 | Communication Process | 4.1 ¶1 | Optional | 
+| 34 | Information Security Customer Relationship Management Process | 4.1 ¶1 | Optional | 
+| 35 | Information Inventory | A.5.9 | Optional | 
