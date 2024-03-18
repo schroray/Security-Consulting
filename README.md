@@ -15,3 +15,18 @@ Contents related to Security Consulting
  3. ISO: https://iso.org/obp/ui
  4. IAPP: https://iapp.org/resources/glossary
  5. Gartner: https://gartner.com/en/glossary
+
+
+| Term | Begriff |
+| --- | --- |
+| Guideline | Leitlinie |
+| Policy | Richtlinie |
+| Procedure | Verfahren |
+| Standard | Standard |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
