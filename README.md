@@ -21,6 +21,7 @@ Contents related to Security Consulting
 | --- | --- |
 | Guideline | Leitlinie |
 | Policy | Richtlinie |
+| Policies, standards, guidelines, and procedures | Richtlinien, Standards, Verfahren und Leitlinien |
 | Procedure | Verfahren |
 | Standard | Standard |
 |  |  |
