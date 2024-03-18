@@ -17,17 +17,19 @@ Contents related to Security Consulting
  5. Gartner: https://gartner.com/en/glossary
 
 
-| Term | Begriff |
-| --- | --- |
-| Guideline | Leitlinie |
-| Policy | Richtlinie |
-| Policies, standards, guidelines, and procedures | Richtlinien, Standards, Verfahren und Leitlinien |
-| Procedure | Verfahren |
-| Standard | Standard |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Term EN | Term DE | Definition | 
+| --- | --- | --- |
+| Baseline | Grundlage | Uniform ways for safeguard implemenation. A reference point or starting value used for comparison |
+| Due Care | Sorgfaltspflicht | Refers to the reasonable care taken to protect an organization’s interests |
+| Due Diligence | Sorgfaltspflicht | Focuses on the activities that maintain the effort put into due care |
+| Guideline | Leitlinie | Recommendations / Best Practise |
+| Policy | Richtlinie | General management statement. Formal document that establishes general principles and rules. Serves as guidelines for employee behavior and decision-making within an organization |
+| Procedure | Verfahren | Step-by-Step Instructions, written instructions describing the exact sequence of activities or tasks  |
+| Security Policy | Sicherheitsrichtlinie | A formal document that establishes general principles and rules for information security |
+| Standard | Standard | Specific Mandatory Controls or specific requirements or norms that must be met |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
