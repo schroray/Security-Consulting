@@ -21,6 +21,11 @@ Information security management follows a risk-based approach.
 
 ![image](https://github.com/schroray/Security-Consulting/assets/4217443/671cf659-5bc9-4ba6-9c2f-de9bcfc41ee3)
 
+**Phases of Risk Management**
+
+<img width="741" alt="image" src="https://github.com/schroray/Security-Consulting/assets/4217443/82c9975b-2b5a-49e5-94ee-061a22312a4d">
+
+
 ### Establish Context
 Before diving into risk identification or analysis, it’s crucial to establish the context in which the organization operates. This involves understanding the internal and external factors that can affect the organization's assets. Establishing context provides a lens through which risks can be identified and evaluated.
 
