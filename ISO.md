@@ -14,6 +14,10 @@ The ISO 27000 family is divided into four main categories:
 - Standards describing general guidelines
 - Standards describing sector-specific guidelines
 
+**Die Familie der ISMS-Standards (ISO/IEC 27000-Reihe)**
+<img width="812" alt="image" src="https://github.com/schroray/Security-Consulting/assets/4217443/332064e5-ce3c-4cd2-bc6f-b0905def1438">
+
+
 <img width="658" alt="image" src="https://github.com/schroray/Security-Consulting/assets/4217443/f9d8a4bc-6004-417a-a333-86869a64549c">
 
 ![image](https://github.com/schroray/Security-Consulting/assets/4217443/6ed5cc38-4b8f-4d4c-9aea-bd5775e507e1)
