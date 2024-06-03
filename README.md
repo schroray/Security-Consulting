@@ -24,7 +24,8 @@ Contents related to Security Consulting
 | Due Diligence | Sorgfaltspflicht | Focuses on the activities that maintain the effort put into due care |
 | Guideline | Leitlinie | Recommendations / Best Practise |
 | Policy | Richtlinie | General management statement. Formal document that establishes general principles and rules. Serves as guidelines for employee behavior and decision-making within an organization |
-| Procedure | Verfahren | Step-by-Step Instructions, written instructions describing the exact sequence of activities or tasks  |
+| Procedure | Verfahren | Step-by-Step Instructions, written instructions describing the exact sequence of activities or tasks |
+| Process | Prozess | Set of interrelated resources and activities that transform inputs into outputs. |
 | Security Policy | Sicherheitsrichtlinie | A formal document that establishes general principles and rules for information security |
 | Standard | Standard | Specific Mandatory Controls or specific requirements or norms that must be met |
 |  |  |  |
