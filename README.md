@@ -35,3 +35,6 @@ Contents related to Security Consulting
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+# Certifications
+https://pauljerimy.com/security-certification-roadmap/
